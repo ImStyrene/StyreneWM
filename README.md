@@ -45,3 +45,14 @@ It allows you to efficiently manage and tile your windows with keyboard shortcut
 ---
 
 ## Configuration (`StyreneWM.ini`)
+```ini
+
+[Settings]
+Padding=10
+AnimationSpeed=10
+SnapResizeAmount=20
+WindowTransparency=255
+SnapThreshold=15
+MaximizedPadding=5
+AutoMaximizeOnOpen=0
+```
