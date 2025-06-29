@@ -26,6 +26,11 @@ It allows you to efficiently manage and tile your windows with keyboard shortcut
 3. Run `StyreneWM.ahk`  
 4. Customize the `StyreneWM.ini` file to adjust padding, resize steps, animation speed, and other settings  
 
+Or
+
+```
+git clone ImStyrene/StyreneWM_v2.0 <Desired Directory>
+```
 ---
 
 ## Usage / Keybindings
